@@ -1,6 +1,6 @@
 # Les aspirateurs robots 
-## Belakebi-Joly Yvan & Blart Louise 
-## Projet de Programmation 1A-ENSAE (2019-2020) 
+Belakebi-Joly Yvan & Blart Louise 
+Projet de Programmation 1A-ENSAE (2019-2020) 
 
 Les robots aspirateurs font leur première apparition en 2002. Depuis on les retrouve de plus en plus dans nos appartements et maisons. Nous nous intéressons à la programmation de ces aspirateurs robots. 
 Comment nettoyer une pièce le plus efficacement possible ? Nous voulons que notre aspirateur nettoie l’intégralité d’une pièce inconnue (largeur, longueur et disposition des obstacles inconnues) le plus rapidement possible (i.e en effectuant le moins de rotations et de déplacements possibles). L’aspirateur que nous programmons a des capteurs sur le devant, c’est pourquoi il peut seulement avancer d’une case ou effectuer une rotation.
