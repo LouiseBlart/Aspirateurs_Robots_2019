@@ -1,5 +1,6 @@
 # Les aspirateurs robots 
 Belakebi-Joly Yvan & Blart Louise 
+Projet de Programmation 1A-ENSAE (2019-2020) 
 
 
 Les robots aspirateurs font leur première apparition en 2002. Depuis on les retrouve de plus en plus dans nos appartements et maisons. Nous nous intéressons à la programmation de ces aspirateurs robots. 
